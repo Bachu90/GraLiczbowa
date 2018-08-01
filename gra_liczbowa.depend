@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451657854 source:d:\programowanie\Æwiczenia\gra_liczbowa\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
